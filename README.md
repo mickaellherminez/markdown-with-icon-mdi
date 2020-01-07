@@ -12,9 +12,9 @@ All icons come from [materialdesignicons](https://materialdesignicons.com/) for 
 
 > It is possible to use both syntax.
 
-**png examples:**
+**Png examples:**
 
-| Tables   |      functionality      |  import  |
+| Tables   |      Functionality      |  Import  |
 |----------|:-------------:|------:|
 | ![image](icons/png/angular.png)        | ...  |       **import { mdiNetflix } from '@mdi/js';** |
 | ![image](icons/png/apple.png)          | ...  |         **import { mdiApple } from '@mdi/js';** |
@@ -28,9 +28,9 @@ All icons come from [materialdesignicons](https://materialdesignicons.com/) for 
 | ![image](icons/png/windows.png)        | ...  |       **import { mdiWindows } from '@mdi/js';** |
 
 
-**svg examples:**
+**Svg examples:**
 
-| Tables   |      functionality      |  name  |
+| Tables   |      Functionality      |  Name  |
 |----------|:-------------:|------:|
 | ![image](icons/svg/_ionicons_svg_md-add-circle-outline.svg)      | ...  |       **add-circle-outline** |
 | ![image](icons/svg/_ionicons_svg_md-add.svg)                     | ...  |                      **add** |
