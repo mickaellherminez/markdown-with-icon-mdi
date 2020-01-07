@@ -13,6 +13,7 @@ All icons come from [materialdesignicons](https://materialdesignicons.com/) for 
 > It is possible to use both syntax.
 
 **png examples:**
+
 | Tables   |      functionality      |  import  |
 |----------|:-------------:|------:|
 | ![image](icons/png/angular.png)        | ...  |       **import { mdiNetflix } from '@mdi/js';** |
@@ -28,6 +29,7 @@ All icons come from [materialdesignicons](https://materialdesignicons.com/) for 
 
 
 **svg examples:**
+
 | Tables   |      functionality      |  name  |
 |----------|:-------------:|------:|
 | ![image](icons/svg/_ionicons_svg_md-add-circle-outline.svg)      | ...  |       **add-circle-outline** |
