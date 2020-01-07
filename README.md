@@ -6,9 +6,13 @@ All icons come from [materialdesignicons](https://materialdesignicons.com/) for 
 
 
 
-**Example in html:**     `<img src="icons/github-circle.png">` <img src="icons/github-circle.png">
+**Example in html:**     `<img src="icons/github-circle.png">` 
 
-**Example in markdown:** `![image](icons/github-circle.png)` ![image](icons/github-circle.png)
+<img src="icons/github-circle.png">
+
+**Example in markdown:** `![image](icons/github-circle.png)` 
+
+![image](icons/github-circle.png)
 
 > It is possible to use both syntax.
 
