@@ -1,8 +1,8 @@
-# Example markdown with icon mdi
+# Example markdown with icon
 
 Add icons in markdown documentation.
 
-All icons come from [materialdesignicons](https://materialdesignicons.com/) for png and [ionicons](https://ionicons.com/) for svg (but it works with any png or svg file [material icons](https://material.io/resources/icons/?style=baseline), [feathericons](https://feathericons.com/)... ).
+All icons come from [materialdesignicons](https://materialdesignicons.com/) for png and [ionicons](https://ionicons.com/) for svg (but it works with any png or svg, example [material icons](https://material.io/resources/icons/?style=baseline), [feathericons](https://feathericons.com/)... ).
 
 
 
